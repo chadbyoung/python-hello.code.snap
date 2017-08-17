@@ -1,4 +1,9 @@
-# Hello World in Python for snappy
+[//]: # (Created on: August 17, 2017)
+[//]: # (Author: Chad Young)
+[//]: # (Contact: chad.young@dell.com)
+
+
+# README for python-hello.snap
 
 	This README for for a simple "Hello World" in python written for Snappy. In this  
 	README two command lines are shown that will allow you to view "Hello World" in

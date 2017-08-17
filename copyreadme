@@ -1,0 +1,10 @@
+#!/bin/bash
+# This shell file will copy the readme to the user directory
+# email = <chad_young@dell.com>
+
+
+# Copy the README file to the users home directory
+# Syntax -> (cp $SNAP/<readme.xyz> /home/<user>/
+
+cp $SNAP/README_hello_world_py.md /home/chad_young/
+
